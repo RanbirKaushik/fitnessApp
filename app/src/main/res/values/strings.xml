@@ -1,0 +1,391 @@
+<resources>
+    <string name="app_name">Fitness In 30 Days</string>
+    <string name="title">GoldenApp Studio...</string>
+    <string name="hint_minute">Minute</string>
+    <string name="message_minutes">Please Enter Minutes...</string>
+    <string name="yoga_one">The Name of this yoga is Bridge-Bandha Sarvangasana.\n
+        The Bridge yoga pose is a great front hip joints opener, it also strengthens your spine, opens the chest, and improves your spinal flexibility in addition to stimulating your thyroid. This pose brings many benefits to your body, such as the relief from stress, anxiety, insomnia and it can help with depression.\n
+    </string>
+    <string name="yoga_two">The name of this yoga is Downward Dog-Adho Mukha Svanasana.\n
+        The Downward Dog yoga pose lengthens and decompresses the spine, stretches the hamstrings, strengthens your arms, flushes your brain with fresh oxygen and calms your mind.\n
+    </string>
+
+    <string name="yoga_three">
+        The name of this yoga is Child Pose-Balasana.\n
+        The Child Pose is a resting pose useful to relieve neck, back and hip strain. While in the posture you should have slow are regulated breath; extended arms; resting hips and your forehead should be touching the mat. You can always return to this pose as at it is one of the most restorative and calming pose.\n
+
+    </string>
+
+    <string name="yoga_four">
+        The name of this yoga is Easy Pose-Sukhasana.\n
+        The Easy Pose may seem as an easy pose but it has many benefits for the body. For example, it is a hip opener, it is calming, and it eases the menstrual pain for women in addition to lowering the level of anxiety. (while doing the posture make sure your spine is streightened)\n
+    </string>
+
+    <string name="yoga_five">
+        The name of this yoga is Warrior 1-Virabhadrasana I.\n
+        The Warrior I is a great pose for those of you who have had a hectic day at work and just need to relax your body and mind. While in this pose you are strengthening your legs, your are opening your chest and shoulders, movements which we usually don&#8217;t do throughout our day, but they are necessary for a good posture and peaceful mind. The effects out of this posture are tremendous: it strengthens the muscles of your knees and feet, it stretches your shoulders and spine, and it improves your focus.\n
+
+    </string>
+
+    <string name="yoga_six">
+
+        The name of this yoga is Warrior 2-Virabhadrasana II.\n
+        The Warrior II yoga pose also strengthens your legs and arms, opens your chest and shoulders, and it contracts your abdominal organs. Your breath needs to be regulated, your focus should be on the expansion of your arms which will help you to improve your patience. Keep your self elevated rather than collapsing with your hips-don\'t allow gravitation to pull you down. Stay strong.\n
+    </string>
+    <string name="yoga_seven">The name of this yoga is Triangle-Trikonasana.\n
+        The Triangle is one of those postures that brings to your body many benefits. For example, it  improves the flexibility of your spine; it helps with the alignment of your shoulders; it relieves back pain and stiffness in the neck area, but don\'t forget you need to practice each posture on the left and right site &#8211; balancing your postures is very important. With the practice of this posture you will notice many improvements, but especially for your posture.\n</string>
+    <string name="yoga_eight">
+        The name of this yoga is Four Limbed Staff-Chaturanga.\n
+        The Four Limbed staff  yoga pose strengthens your arms, wrists and abdomen. It is also a good preparation pose for more challenging arm balancing poses.\n
+
+    </string>
+    <string name="yoga_nine">
+        The name of this yoga is Chair-Utkatasana.\n
+        The Chair Yoga position tones your leg muscles, strengthens your hip reflexors, ankles, calves and back. It stretches the chest and shoulders. It reduces symptoms of flat feet and it stimulates your heart, diaphragm, and abdominal organs.\n
+
+
+    </string>
+    <string name="yoga_ten">
+        The name of this yoga is Tree-Vrksasana.\n
+        The Tree Yoga pose may seems as another easy posture but it is not a resting asana. Your back should be aligned property (extended), your hips should be at one level, and since your stability depends on the distribution of your weight on your standing leg ensure you do while maintaing and improving your balance.\n
+    </string>
+    <string name="yoga_eleven">
+
+        The name of this Yoga is Boat-Navasana.\n
+        The boat yoga requires for one to be stable (as a boat) which means, straight back, chin looking forward, while knees and arms are locked. This is not an easy posture. Through it you build strong abdominal and core straight.\n
+    </string>
+    <string name="yoga_twelve">
+        The name of this Yoga is Crow-Bakasana\n
+        The Crow Yoga pose strengthens the wrists, forearms and abdomen while also stretching the hamstring. Balance is crucial for this pose.\n
+
+
+    </string>
+    <string name="yoga_thirteen">
+        The name of this yoga is Arm Balance-Pincha Mayurasana.\n
+        The Arm Balancing Yoga poses are an advanced poses. This particular one helps you with the blood flow throughout your body; it calms your mind and it strengthens your arms. If you yet cannot do it as shown, you can always use the wall for support and the benefits are the same.\n
+
+    </string>
+    <string name="yoga_fourteen">
+        Sorry! No More Yoga.
+    </string>
+    <string name="yoga_fifteen"></string>
+    <string name="yoga_sixteen">No More</string>
+    <string name="no_more"></string>-
+
+
+    <string name="fruit_one">
+        1. Lemon\n
+        Lemons are a citrus fruit that people often use in traditional remedies because of their health benefits. Like other citrus fruits, they contain vitamin C and other antioxidants.\n\n
+        Antioxidants are essential for human health. These compounds mop up free radicals in the body that can damage the bodys cells and lead to diseases, such as cancers.\n\n
+        Researchers believe that the flavonoids in lemon and other citrus fruits have antibacterial, anticancer, and antidiabetic properties.\n\n
+        Citrus fruits, including lemons, contain active components called phytochemicals that benefit health. These include:\n
+        \u2022 vitamin C\n
+        \u2022   folic acid\n
+         \u2022   potassium\n
+          \u2022   pectin\n\n
+
+        The juice from one 48 g lemon contains the following nutrients in grams (g) or milligrams (mg):\n
+
+\u2022 11 calories\n
+\u2022 3.31 g carbohydrate\n
+\u2022 49 mg potassium\n
+\u2022 18.6 mg vitamin C\n
+\u2022 3 mg calcium\n
+\u2022 0.1 g of fiber\n\n
+        Lemons also contain thiamin, riboflavin, niacin, vitamin B-6, folate, and vitamin A.\n
+
+Read more about the health benefits of lemons and lemon water here.\n
+
+How to eat lemons\n
+
+Use the juice of a lemon to flavor drinking water or squeeze over a salad or fish. Try adding lemon juice to boiling water with a teaspoon of honey to help soothe a sore throat. It is also possible to eat the rind of organic lemons. Some people use the rind in recipes.\n
+    </string>
+    <string name="fruit_two">
+2. Strawberries\n
+        Strawberries are a juicy, red fruit with a high water content. The seeds provide plenty of dietary fiber per serving. Strawberries contain many healthful vitamins and minerals.\n
+        Of particular note, they contain anthocyanins, which are flavonoids that can help boost heart health. The fiber and potassium in strawberries can also support a healthy heart.\n
+        In one study, women who ate 3 or more servings per week of strawberries and blueberries — which are both known for their high anthocyanin content — had a lower risk of having a heart attack than those with lower intake.\n
+        Strawberries and other colorful berries also contain a flavonoid called quercetin. This is a natural anti-inflammatory compound.
+
+A serving of 3 large strawberries provides the following nutrients:\n
+
+\u2022 17 calories\n
+\u2022 4.15 g carbohydrate\n
+\u2022 1.1 g of fiber\n
+\u2022 9 mg of calcium\n
+\u2022 7 mg of magnesium\n
+\u2022 83 mg of potassium\n
+\u2022 31.8 mg of vitamin C\n
+Strawberries also contain thiamin, riboflavin, niacin, folate, and vitamins B-6, A and K.\n
+
+Read more about strawberries.\n
+
+How to eat strawberries\n
+
+Strawberries are a versatile fruit. People can eat them raw or add them to breakfast cereals or yogurt, blend them into a smoothie, or make them into jam.\n
+    </string>
+    <string name="fruit_three">
+3. Oranges\n
+        Oranges are a sweet, round citrus fruit packed with vitamins and minerals.\n
+
+Oranges are among the richest sources of vitamin C, with one medium fruit providing 117 percent of a person s daily value of vitamin C.\n
+
+A 141 g orange also contains the following nutrients:\n
+
+\u2022 65 calories\n
+\u2022 16.27 g carbohydrate\n
+\u2022 3.4 g of fiber\n
+\u2022 61 mg of calcium\n
+\u2022 14 mg of magnesium\n
+\u2022 238 mg of potassium\n
+\u2022 63.5 mg of vitamin C\n
+Vitamin C acts as a powerful antioxidant in the body. This vitamin is also essential for immune system function. It boosts immune function by helping the body to absorb iron from plant-based foods.\n
+
+The human body cannot make vitamin C itself, so people need to get this vitamin from their diet.Oranges also contain high levels of pectin, which is a fiber that can keep the colon healthy by binding to chemicals that can cause cancer and removing them from the colon.\n
+
+Oranges also provide the following healthful vitamins:\n
+
+\u2022 vitamin A, a compound that is important for healthy skin and eyesight\n
+\u2022 B-vitamins, including thiamin and folate, which help keep the nervous and reproductive systems healthy and help create red blood cells.\n
+Read more about the benefits of oranges.\n\n
+
+How to eat oranges:\n\n
+
+People can eat oranges on their own as a refreshing snack or by drinking a glass of pure orange juice. Juice oranges at home or choose a brand of fresh juice whose label states it is not from concentrate.\n
+
+People can also grate orange peel into a salad, yogurt, or as a cereal topping to add extra flavor.\n
+    </string>
+    <string name="fruit_four">
+4. Limes\n
+    Limes are a sour citrus fruit that provide a range of health benefits.\n
+
+Like other citrus fruits, limes provide a healthful dose of vitamin C. They also have similar health benefits, antibacterial, and antioxidant properties.\n
+
+The juice of one lime provides the following nutrients:\n
+
+\u2022 11 calories\n
+\u2022 3.7 g carbohydrate\n
+\u2022 6 g calcium\n
+\u2022 4 mg magnesium\n
+\u2022 51 mg potassium\n
+\u2022 13.2 mg vitamin C\n
+Read more about the benefits of limes and lime water here.\n
+
+How to eat limes\n
+
+Limes work well in savory foods. Try adding the juice or grated peel of a lime to flavor salad dressings or rice dishes. Otherwise, juice a lime and add to hot or cold water for a refreshing drink.\n
+
+    </string>
+    <string name="fruit_five">
+5. Grapefruit\n
+        Grapefruits are sour fruits full of health-inducing vitamins and minerals. Grapefruits can be pink, red, or white.\n
+
+Half a grapefruit contains the following nutrients:\n
+
+\u2022 52 calories\n
+\u2022 13.11 g carbohydrate\n
+\u2022 2.0 g fiber\n
+\u2022 27 g calcium\n
+\u2022 11 g magnesium\n
+\u2022 166 g potassium\n
+\u2022 38.4 g vitamin C\n
+The flavonoids in grapefruits can help protect against some cancers, inflammation, and obesity.\n
+
+A review study suggests the compounds called furanocoumarins found in grapefruits can help protect against oxidative stress and tumors and may support healthy bones.\n
+
+Some research from this review suggests that grapefruit furanocoumarins may have anticancer properties, which may be especially effective against breast cancer, skin cancer, and leukemia. Researchers still need to carry out more studies on animals and humans to confirm these properties.\n
+
+People may wish to see a doctor before adding grapefruit to their diet, as it can interact with certain medications.\n
+
+Read more about grapefruit benefits.\n
+
+How to eat grapefruit\n
+
+Try adding grapefruit slices to a fruit salad, or squeeze the juice into water to make a drink. Otherwise, people can buy pure grapefruit juice from the supermarket.\n
+
+    </string>
+    <string name="fruit_six">
+6. Blackberry\n
+        Like other berries, blackberries contain health-boosting anthocyanins.\n
+
+Blackberries contain many seeds, so they have a high fiber content. This means they can help improve gut health and heart health.\n
+
+Half a cup of blackberries contains the following nutrients:\n
+
+\u2022 31 calories\n
+\u2022 6.92 g carbohydrate\n
+\u2022 3.8 g fiber\n
+\u2022 21 mg calcium\n
+\u2022 14 mg magnesium\n
+\u2022 117 mg potassium\n
+\u2022 15.1 mg vitamin C\n
+Read more about blackberries here.\n
+
+How to eat blackberries\n
+
+People can eat blackberries fresh, add them to yogurt for breakfast or dessert, or add frozen blackberries to smoothies.\n
+    </string>
+    <string name="fruit_seven">
+        7. Apples\n
+Apples make a quick and easy addition to the diet. Eat them with the skin on for the greatest health benefits.\n
+
+Apples are high-fiber fruits, meaning that eating them could boost heart health and promote weight loss. The pectin in apples helps to maintain good gut health.\n
+
+One medium apple contains the following nutrients:\n
+
+\u2022 95 calories\n
+\u2022 25.13 g of carbohydrate\n
+\u2022 4.4 g of fiber\n
+\u2022 195 mg of potassium\n
+\u2022 11 mg calcium\n
+\u2022 8.4 mg vitamin C\n
+Research has shown that there is a link between eating apples regularly and a lower risk of cardiovascular disease, certain cancers, and diabetes.\n
+
+Apples also have high levels of quercetin, a flavonoid which may have anti-cancer properties.\n
+
+One study found that people who ate whole apples were 30 percent less likely to be obese than those who did not. This can lower the risk for diabetes and heart disease.\n
+
+Read more about apples.\n
+
+How to eat apples\n
+
+Raw apples make a great snack and combining them with almond butter helps balance protein and fat intake. People can also add raw or stewed apples to yogurt, or use applesauce in cooking.\n
+    </string>
+    <string name="fruit_eight">
+        8. Pomegranate\n
+Many people consider pomegranates to be a superfood. They are high in antioxidants and polyphenols, which help to combat the oxidative stress that can cause disease in the body.\n
+
+Eat pomegranates with the seeds to get the fiber benefits.\n
+
+One raw pomegranate contains:\n
+
+\u2022 234 calories\n
+\u2022 52.73 g of carbohydrate\n
+\u2022 11.3 g of fiber\n
+\u2022 666 mg of potassium\n
+\u2022 28 mg calcium\n
+\u2022 28.8 mg vitamin C\n
+One pomegranate also contains 46.2 micrograms (mcg) of the recommended 80 mcg daily allowance of vitamin K. This vitamin is essential for strong bones and healthy blood cells.\n
+
+A review study about the health benefits of pomegranates suggests that they have anti-inflammatory effects and may help protect against brain-related diseases, such as Alzheimer disease and Parkinson disease. This may be because pomegranates contain particularly high levels of polyphenols.\n
+
+Research discussed in this review also suggests that pomegranates may restrict the growth of human prostate cancer cells.\n
+
+Read more about the benefits of pomegranate juice.\n
+
+How to eat pomegranate\n
+
+Pomegranates can make a great addition to salads, or to couscous or rice dishes. Pomegranates are sweet, so people can also add them to yogurt and fruit salads.\n
+    </string>
+    <string name="fruit_nine">
+        9. Pineapple\n
+Pineapple is an exotic fruit that may help reduce inflammation and promote healthy tissue growth.\n
+
+Pineapple contains an active compound called bromelain, which many people take as a dietary supplement because of its potential health benefits.\n
+
+The National Center for Complementary and Integrative Health state that bromelain can help with reducing nasal inflammation or sinusitis. However, scientists need to carry out more research into its benefits for osteoarthritis and its anticancer potential.\n
+
+Pineapples contain manganese, which the body uses to build bone and tissue. A medium slice of pineapple also contains the following nutrients:\n
+
+\u2022 42 calories\n
+\u2022 11.02 g carbohydrate\n
+\u2022 1.2 g fiber\n
+\u2022 92 mg potassium\n
+\u2022 40.2 mg vitamin C\n
+\u2022 11 mg calcium\n
+Read more about the benefits of pineapple, the pineapple juice, and potential bromelain benefits.\n
+
+How to eat pineapple\n
+
+People can enjoy fresh pineapple by itself or in fruit salads. They can also use pineapple to make a tropical salsa or add it as a topping on fish tacos. Try adding frozen pineapple to smoothies.\n
+
+
+    </string>
+    <string name="fruit_ten">
+
+        10. Banana\n
+        Bananas are well known for their high potassium content. A medium banana contains 422 mg of the adequate adult intake of 4,500 mg of potassium. Potassium helps the body control heart rate and blood pressure.\n
+
+Bananas are also a good source of energy, with one banana containing 105 calories and 26.95 g of carbohydrate.\n
+
+The 3.1 g of fiber in a regular banana can also help with regular bowel movements and stomach issues, such as ulcers and colitis.\n
+
+A medium banana also contains the following nutrients\n
+
+\u2022 1.29 g protein\n
+\u2022 6 mg calcium\n
+\u2022 32 mg magnesium\n
+\u2022 10.3 mg vitamin C\n
+Read more about bananas.\n
+
+How to eat bananas\n
+
+A banana is an excellent fruit to use to thicken a smoothie. People can also use them in baking as a natural sweetener or to make banana bread or pancakes.\n
+    </string>
+    <string name="fruit_eleven">
+
+        11. Avocado\n
+Many people refer to avocados as a superfood because of their healthful qualities\n
+
+Avocados are rich in oleic acid, a monounsaturated fat which helps lower cholesterol levels. The American Heart Association say that maintaining healthy cholesterol levels with healthful fats could reduce the risk of heart disease and stroke.\n
+
+Like bananas, avocados are rich in potassium. They also contain lutein, an antioxidant which is important for healthy eyes and skin.\n
+
+Half an avocado contains the following nutrients:\n
+
+\u2022 161 calories\n
+\u2022 2.01 g protein\n
+\u2022 8.57 g carbohydrate\n
+\u2022 6.7 g fiber\n
+\u2022 12 mg calcium\n
+\u2022 29 mg magnesium\n
+\u2022 487 mg potassium\n
+\u2022 10.1 mg vitamin C\n
+Avocados also contain folate, vitamin A, and beta-carotene.\n
+
+Read more about avocados.\n
+
+How to eat avocado\n
+
+People can add avocado to salads, or mix with lime, garlic, and tomatoes to make guacamole. Add avocado to smoothies or hummus, or use avocado instead of other fats in baking.\n
+    </string>
+    <string name="fruit_twelve">
+
+        12. Blueberries\n
+Blueberries are another superfood that can provide many health benefits\n
+
+Like strawberries, blueberries contain anthocyanin, which is a powerful antioxidant. Because of this, they might protect against heart disease, stroke, cancers, and other diseases.\n
+
+Blueberries also contain pterostilbene, a compound that may help prevent plaque from collecting in the arteries.\n
+
+Half a cup of blueberries provides the following nutrients:\n
+
+\u2022 42 calories\n
+\u2022 10.72 g carbohydrate\n
+\u2022 1.8 g fiber\n
+\u2022 4 mg calcium\n
+\u2022 57 mg potassium\n
+\u2022 7.2 mg vitamin C\n
+Read more about blueberries.\n
+
+How to eat blueberries\n
+
+Fresh or frozen blueberries are a great addition to breakfast cereals, desserts, yogurt, or smoothies.\n
+    </string>
+    <string name="fruit_thirteen">
+        13. Watermelon\n
+Watermelon is high in vitamins A and C. It’s also rich in some important antioxidants, including lycopene, carotenoids and cucurbitacin E.\n
+
+Some of watermelon’s antioxidants have been studied for their anti-cancer effects.\n
+
+Lycopene intake is linked with a reduced risk of cancers of the digestive system, while cucurbitacin E may inhibit tumor growth (52, 53).\n
+
+Consuming lycopene-rich foods can also promote heart health because of their ability to reduce cholesterol and blood pressure (52).\n
+
+Of all the fruits, watermelon is one of the most hydrating. It is made up of 92% water, which can help you feel more full (52).\n
+    </string>
+    <string name="fruit_fourteen">Sorry No More Fruits..</string>
+    <string name="fruit_fifteen">Sorry No More Fruits..</string>
+    <string name="fruit_sixteen">Sorry No More Fruits..</string>
+    <string name="no_more_fruit">Sorry No More Fruits..</string>
+</resources>
